@@ -3,6 +3,7 @@ Spring Boot를 이용한 RESTful API 만들기
 ![image](https://user-images.githubusercontent.com/91974804/194017964-71b75b2c-ea8a-4bc4-9716-f970e0b0f157.png)
 
 
+JAVA 11
 - spring boot 2.7.4, 
  - gradle
  - lombok
